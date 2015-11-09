@@ -1,3 +1,4 @@
+#word sorter
 puts 'Please type in your favorite quote. one line at a time'
 
 words = []
